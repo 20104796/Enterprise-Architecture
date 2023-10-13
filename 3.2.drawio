@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T13:41:43.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="pxinZEFYypT6_cO5SG-L" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T13:52:37.985Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="OisYESk4j37iBKKLCeOe" version="22.0.4" type="github">
   <diagram name="第 1 页" id="230re3bSeqJNsvz120OU">
-    <mxGraphModel dx="1235" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="460" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -81,6 +81,85 @@
         </mxCell>
         <mxCell id="_MToJE-PiGv9jwknqY7h-42" value="" style="whiteSpace=wrap;html=1;points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
           <mxGeometry x="980" y="302.5" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-47" target="_MToJE-PiGv9jwknqY7h-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-47" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="30" y="660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-48" value="check loan application " style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="665" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-49" target="_MToJE-PiGv9jwknqY7h-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339.9999999999999" y="619.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-49" target="_MToJE-PiGv9jwknqY7h-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.9999999999999" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-49" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="1">
+          <mxGeometry x="260" y="655" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-48" target="_MToJE-PiGv9jwknqY7h-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-53" value="loan risk assessment" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="625" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-54" value="appraisal of the property" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="380" y="705" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-55" target="_MToJE-PiGv9jwknqY7h-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-55" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="1">
+          <mxGeometry x="550" y="665" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-53" target="_MToJE-PiGv9jwknqY7h-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-54" target="_MToJE-PiGv9jwknqY7h-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-58" target="_MToJE-PiGv9jwknqY7h-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-58" value="loan officer assess &lt;br&gt;applicant’s eligibility" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="640" y="667.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-60" target="_MToJE-PiGv9jwknqY7h-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-60" target="_MToJE-PiGv9jwknqY7h-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-60" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="790" y="665" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-62" target="_MToJE-PiGv9jwknqY7h-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-62" value="prepare acceptance pack and sent to the applicant." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="886.5" y="640" width="139" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-63" value="application rejected" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="901" y="712.5" width="110" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-64" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="675" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-68" target="_MToJE-PiGv9jwknqY7h-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-68" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="670" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_MToJE-PiGv9jwknqY7h-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_MToJE-PiGv9jwknqY7h-63" target="_MToJE-PiGv9jwknqY7h-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
