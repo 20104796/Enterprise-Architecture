@@ -1,9 +1,144 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T12:51:50.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="sGTh7Aut7ULl5e4NHpRN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T13:25:54.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="ihcJfPXVLPm9nJcE3SM1" version="22.0.4" type="github">
   <diagram name="第 1 页" id="AY51i_A_MkKj_7NZBsh-">
-    <mxGraphModel>
+    <mxGraphModel dx="748" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="evm5p4zeYILCIpBnaeN9-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-3" target="evm5p4zeYILCIpBnaeN9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-3" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="30" y="302.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-5" target="evm5p4zeYILCIpBnaeN9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-5" value="customer sends order to Back Office" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="110" y="302.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-7" target="evm5p4zeYILCIpBnaeN9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-7" value="Back Office checks order" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="300" y="302.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="587.5" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-9" value="Back Office send confirmation" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="450" y="302.5" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-11" target="evm5p4zeYILCIpBnaeN9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-11" value="Assembly Dept sends delivery schedule" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="302.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-13" target="evm5p4zeYILCIpBnaeN9-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-13" value="Send order to Parts Department" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="915" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-14" value="send delivery note to warehouse" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-19" target="evm5p4zeYILCIpBnaeN9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evm5p4zeYILCIpBnaeN9-15">
+          <mxGeometry x="0.0162" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-19" target="evm5p4zeYILCIpBnaeN9-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="940" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evm5p4zeYILCIpBnaeN9-17">
+          <mxGeometry x="0.0048" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-19" value="Check if parts are available" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="300" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-20" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=throwing;symbol=general;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="830" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-14" target="evm5p4zeYILCIpBnaeN9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-23" target="evm5p4zeYILCIpBnaeN9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-23" value="Send requirements to Assembly Dept" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="590" y="302.5" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-24" target="evm5p4zeYILCIpBnaeN9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-24" value="Back Office send confirmation" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="740" y="302.5" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-29" target="evm5p4zeYILCIpBnaeN9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-32" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="evm5p4zeYILCIpBnaeN9-31">
+          <mxGeometry x="0.0308" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-29" target="evm5p4zeYILCIpBnaeN9-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-29" value="Check if parts are available" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="407.5" width="130" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-33" value="Send purchase order to Parts Supplier" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1147.5" y="502.5" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-34" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1205" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-37" target="evm5p4zeYILCIpBnaeN9-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-37" value="Assemble products" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="302.5" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-39" target="evm5p4zeYILCIpBnaeN9-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-39" value="Send completed work order to Back Office" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="302.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1797.5" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-41" value="Back Office prepares invoice and Delivery Note" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="302.5" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-43" target="evm5p4zeYILCIpBnaeN9-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-43" value="Products sent to the warehouse for shipping" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="302.5" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="evm5p4zeYILCIpBnaeN9-45" target="evm5p4zeYILCIpBnaeN9-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-45" value="Send completed work order to Back Office" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1985" y="302.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evm5p4zeYILCIpBnaeN9-46" value="Back Office prepares invoice and Delivery Note" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="302.5" width="135" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
