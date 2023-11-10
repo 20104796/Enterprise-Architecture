@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2023-11-10T13:19:00.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="6M38VX8RFBYYaDrLxIZX" version="22.1.0" type="github">
+  <diagram name="第 1 页" id="lHjecrkS6KcnyEd4fTU1">
+    <mxGraphModel dx="499" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AIyoqj3rbVYXGUBrCDZF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AIyoqj3rbVYXGUBrCDZF-2" target="AIyoqj3rbVYXGUBrCDZF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AIyoqj3rbVYXGUBrCDZF-2" value="Process information" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=8.90909090909087;" vertex="1" parent="1">
+          <mxGeometry x="190" y="137.5" width="70" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AIyoqj3rbVYXGUBrCDZF-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=8.90909090909087;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AIyoqj3rbVYXGUBrCDZF-5" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=8.90909090909087;" vertex="1" parent="1">
+          <mxGeometry x="270" y="330" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AIyoqj3rbVYXGUBrCDZF-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="212.5" y="220" width="25" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
