@@ -1,9 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T12:57:33.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" version="22.1.5" etag="4zZhT1Di01VuqihAWyrc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T19:33:20.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="NIpbS_2gTNHBBMGzz3PZ" version="22.1.5" type="github">
   <diagram name="第 1 页" id="0OmPnI5ULd9fkVzu7_4t">
-    <mxGraphModel>
+    <mxGraphModel dx="1910" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D90JCbX5_btrpFDGxkax-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-1" target="D90JCbX5_btrpFDGxkax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1040" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-2" target="D90JCbX5_btrpFDGxkax-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-2" value="" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="790" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-3" target="D90JCbX5_btrpFDGxkax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="639.9999999999998" as="sourcePoint" />
+            <mxPoint x="-50" y="639.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="640" />
+              <mxPoint x="10" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-4" target="D90JCbX5_btrpFDGxkax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="940" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-5" target="D90JCbX5_btrpFDGxkax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="860" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-6" target="D90JCbX5_btrpFDGxkax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-7" target="D90JCbX5_btrpFDGxkax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="780" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.65;dx=27;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="825" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-17" value="" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="810" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-18" value="" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="710" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-20" value="Data Marts I" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="755" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-21" value="Data Marts II" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="870" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-22" value="" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="930" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-23" value="Data Marts III" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="990" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-25" value="Analysis Platform" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="630" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-28" value="Application " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D90JCbX5_btrpFDGxkax-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D90JCbX5_btrpFDGxkax-28" target="D90JCbX5_btrpFDGxkax-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
